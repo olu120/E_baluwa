@@ -18,7 +18,7 @@ body{
 }
 
 .container {
-    background-image: url(bg_shadow.png);
+    background-image: url(../images/bg_shadow.png);
     border-radius: 30px;
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.35);
     position: relative;
@@ -357,7 +357,7 @@ body{
         width: 100%;
     }
         .container button{
-            font-size: 12px;
+            font-size: 10px;
             padding: 10px 25px;
             font-weight: 600;
             letter-spacing: 0.5px;
